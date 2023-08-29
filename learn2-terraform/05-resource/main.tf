@@ -3,7 +3,7 @@ resource "aws_instance" "web" {
   ami = "ami-053b0d53c279acc90"
 
   tags = {
-    Name = "Hello World"
+    Name = "Hello World2"
 
   }
 }
